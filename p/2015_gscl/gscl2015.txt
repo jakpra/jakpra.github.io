@@ -1,0 +1,9 @@
+@inproceedings{prange-etal-2015-unsupervised,
+  title={Unsupervised Induction of Part-of-Speech Information for {OOV} Words in {G}erman Internet Forum Posts},
+  author={Prange, Jakob and Thater, Stefan and Horbach, Andrea},
+  booktitle={Proceedings of the NLP4CMC Workshop 2015},
+  publisher = "German Society for Language Technology and Computational Linguistics",
+  url = "https://pdfs.semanticscholar.org/abf1/6c11b7af9b9fd36885f32979e6bf08f841cf.pdf#page=48",
+  pages={38--42},
+  year={2015}
+}

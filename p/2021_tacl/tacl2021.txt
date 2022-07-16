@@ -1,0 +1,11 @@
+@article{prange-etal-2021-longtail,
+    title = "Supertagging the Long Tail with Tree-Structured Decoding of Complex Categories",
+    author = "Prange, Jakob and Schneider, Nathan and Srikumar, Vivek",
+    journal = "Transactions of the Association for Computational Linguistics",
+    year    = "2021",
+    month   = "mar",
+    volume  = "9",
+    pages   = "243--260",
+    url     = "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00364/98238/Supertagging-the-Long-Tail-with-Tree-Structured",
+    doi     = "10.1162/tacl_a_00364"
+}

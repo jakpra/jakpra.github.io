@@ -1,0 +1,58 @@
+Cross-linguistic Multilayer Semantic Annotation and Parsing with UCCA
+
+These days, many NLP tasks involving meaning (such as Machine Translation and Question Answering) are trained end-to-end, under the assumption that the semantic categories and structures needed to perform the task are somehow encoded in the continuous representations of the learning architecture. 
+While this trend has in fact produced significant performance jumps, the lack of interpretability and adequate evaluation metrics remains an issue. 
+I want to make the case for symbolic structured meaning representations, particularly Universal Conceptual Cognitive Annotation (UCCA; Abend & Rappoport, 2013), as a modular, anchored, and language-independent intermediary between linguistic form and abstract meaning.
+
+In the first part of my talk, I will motivate and introduce UCCA, its main philosophy, and proposed extensions for higher-level and more fine-grained semantic layers (Prange et al., 2019; ongoing work).
+The second part will touch on several techniques for automatic parsing into UCCA (Hershcovich et al. 2017, 2018, 2019; Jiang et al., 2019; ongoing work), as well as its application to text simplification (Sulem et al., 2018b) and evaluation of text-to-text generation (Birch et al., 2016; Sulem et al., 2018a; Choshen and Abend, 2018).
+
+
+References:
+
+Omri Abend and Ari Rappoport. 2013. Universal Conceptual
+Cognitive Annotation (UCCA). In Proc. of
+ACL, pages 228–238, Sofia, Bulgaria.
+
+Alexandra Birch, Omri Abend, Ondˇrej Bojar, and
+Barry Haddow. 2016. HUME: Human UCCAbased
+evaluation of machine translation. In Proc. of
+EMNLP, pages 1264–1274, Austin, Texas.	
+
+Leshem Choshen and Omri Abend. 2018. Referenceless
+measure of faithfulness for grammatical error
+correction. In Proc. of NAACL-HLT, pages 124–129,
+New Orleans, Louisiana.
+
+Daniel Hershcovich, Omri Abend, and Ari Rappoport.
+2017. A transition-based directed acyclic graph
+parser for UCCA. In Proc. of ACL, pages 1127–
+1138, Vancouver, Canada.
+
+Daniel Hershcovich, Omri Abend, and Ari Rappoport.
+2018. Multitask parsing across semantic representations.
+In Proc. of ACL, pages 373–385, Melbourne,
+Australia.
+
+Daniel Hershcovich, Omri Abend, and Ari Rappoport.
+2019. Content differences in syntactic and semantic
+representation. In Proc. of NAACL-HLT.
+
+Wei Jiang, Yu Zhang, Zhenghua Li, and Min Zhang. 2019. 
+HLT@ SUDA at SemEval 2019 Task 1: UCCA Graph Parsing as 
+Constituent Tree Parsing. arXiv preprint arXiv:1903.04153.
+
+Jakob Prange, Nathan Schneider, and Omri Abend. 
+2019. Semantically Constrained Multilayer Annotation:
+The Case of Coreference. In Proc. of DMR, pages 164–176,
+Florence, Italy.
+
+Elior Sulem, Omri Abend, and Ari Rappoport. 2018a.
+Semantic structural evaluation for text simplification.
+In Proc. of NAACL-HLT, pages 685–696, New Orleans,
+Louisiana.
+
+Elior Sulem, Omri Abend, and Ari Rappoport. 2018b.
+Simple and effective text simplification using semantic
+and neural methods. In Proc. of ACL, pages 162–
+173, Melbourne, Australia.

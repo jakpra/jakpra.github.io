@@ -1,0 +1,12 @@
+@inproceedings{abend-etal-2020-cross,
+    title = "Cross-lingual Semantic Representation for NLP with UCCA",
+    author = "Abend, Omri and Dvir, Dotan and Hershcovich, Daniel and Prange, Jakob and Schneider, Nathan",
+    booktitle = "Proceedings of the 28th International Conference of Computational Linguistics: Tutorial Abstracts",
+    month = dec,
+    year = "2020",
+    address = "Online",
+    pages = "1--9",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.coling-tutorials.1/",
+    doi = "10.18653/v1/2020.coling-tutorials.1",
+}

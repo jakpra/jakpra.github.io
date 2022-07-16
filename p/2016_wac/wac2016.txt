@@ -1,0 +1,14 @@
+@inproceedings{prange-etal-2016-empirist,
+    title = "{U}d{S}-(retrain|distributional|surface): Improving {POS} Tagging for {OOV} Words in {G}erman {CMC} and Web Data",
+    author = "Prange, Jakob  and
+      Horbach, Andrea  and
+      Thater, Stefan",
+    booktitle = "Proceedings of the 10th Web as Corpus Workshop",
+    month = aug,
+    year = "2016",
+    address = "Berlin",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/W16-2608",
+    doi = "10.18653/v1/W16-2608",
+    pages = "63--71",
+}

@@ -1,0 +1,15 @@
+@inproceedings{prange-etal-2019-uccasnacs,
+    title = "Made for Each Other: Broad-Coverage Semantic Structures Meet Preposition Supersenses",
+    author = "Prange, Jakob  and
+      Schneider, Nathan  and
+      Abend, Omri",
+    booktitle = "Proceedings of the 23rd Conference on Computational Natural Language Learning (CoNLL)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/K19-1017",
+    doi = "10.18653/v1/K19-1017",
+    pages = "174--185",
+    abstract = "Universal Conceptual Cognitive Annotation (UCCA; Abend and Rappoport, 2013) is a typologically-informed, broad-coverage semantic annotation scheme that describes coarse-grained predicate-argument structure but currently lacks semantic roles. We argue that lexicon-free annotation of the semantic roles marked by prepositions, as formulated by Schneider et al. (2018), is complementary and suitable for integration within UCCA. We show empirically for English that the schemes, though annotated independently, are compatible and can be combined in a single semantic graph. A comparison of several approaches to parsing the integrated representation lays the groundwork for future research on this task.",
+}

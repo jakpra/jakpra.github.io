@@ -1,0 +1,12 @@
+@inproceedings{hershcovich-etal-2020-comparison,
+    title = "Comparison by Conversion: Reverse-Engineering UCCA from Syntax and Lexical Semantics",
+    author = "Hershcovich, Daniel and Schneider, Nathan and Dvir, Dotan and Prange, Jakob and {de Lhoneux}, Miryam and Abend, Omri",
+    booktitle = "Proceedings of the 28th International Conference of Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Online",
+    pages = "2947--2966"
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.coling-main.264/",
+    doi = "10.18653/v1/2020.coling-main.264",
+}

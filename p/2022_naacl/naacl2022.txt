@@ -1,0 +1,15 @@
+@inproceedings{prange-etal-2022-linguistic,
+    title = "Linguistic Frameworks Go Toe-to-Toe at Neuro-symbolic Language Modeling",
+    author = "Prange, Jakob and
+      Schneider, Nathan and
+      Kong, Lingpeng",
+    booktitle = "Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)",
+    month = jul,
+    year = "2022",
+    address = "Seattle, WA, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/2112.07874",
+    doi = "",
+    pages = "",
+    notes = "arxiv preprint: 2112.07874"
+}

@@ -1,0 +1,40 @@
+NEURO-SYMBOLIC MODELS FOR CONSTRUCTING, COMPARING, AND COMBINING SYNTACTIC AND SEMANTIC REPRESENTATIONS
+Jakob Prange, M.S.
+Dissertation Advisor: Nathan Schneider
+
+ABSTRACT
+
+Grounded in long-established theories of language, symbolic linguistic representation (SLR) formalisms 
+should be a convenient and effective means for analyzing and supporting the rapid development of 
+neural network-based natural language processing (NLP) systems. However, the benefits of 
+the "classic bottom-up NLP pipeline" seem to have been outweighed by massive end-to-end models, 
+largely due to a crude imbalance in availability of training data and computational resources.
+
+In this thesis, I argue that some of the apparent disadvantages of SLRs for neural language processing 
+stem from naive modeling decisions and that they can be overcome by mixing neural computation 
+with symbolic heuristics and structured discrete representation.
+
+The manner in which neural model and SLR interact matters. And since different syntactic 
+and semantic representations diverge in structure and scope, this interaction needs to be aligned either with 
+each formalism's specific format and assumptions or at the very least with basic linguistic principles 
+shared across frameworks.
+
+I first explore this problem for two complementary representations of predicate-argument semantics---
+one at the lexical and one at the sentence level---and find that combining and modeling them jointly is 
+more beneficial for parsing than a naive feature pipeline, especially if this is coupled with 
+linguistically-principled post-processing.
+
+In line with these observations, certain formalisms use complex 'supertags' to represent fine-grained 
+predicate-argument structure even at the lexical level. The second part of this thesis shows that, 
+while constructing these tree-shaped supertags with sequence models generalizes better than ignoring their 
+internal structure altogether, it also imposes the disproportional cognitive load of acquiring basic 
+non-linear grammatical principles from scratch. The resulting accuracy and memory costs can be resolved 
+by hard-wiring structural principles in the system, without a huge burden on runtime.
+
+Finally, I conduct a much broader study comparing 7 different syntactic and semantic frameworks, 
+using a neuro-symbolic language model (LM) as conduit. A carefully controlled series of experiments with 
+ground-truth graphs reveals how SLR scope and structure translate to a systematic performance spread 
+when it comes to supporting a large pre-trained neural LM in predicting the next word, and at the same time 
+identifies an overall high predictive potential in all tested SLRs. I also observe, however, that these effects 
+are highly sensitive to parsing inaccuracies, which opens the door to much future work on incremental parsing, 
+joint parser-LMs, and other methods of symbolically scaffolding neural NLP models.

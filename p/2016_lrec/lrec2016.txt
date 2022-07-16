@@ -1,0 +1,20 @@
+@inproceedings{horbach-etal-2016-idiom,
+    title = "A Corpus of Literal and Idiomatic Uses of {G}erman Infinitive-Verb Compounds",
+    author = "Horbach, Andrea  and
+      Hensler, Andrea  and
+      Krome, Sabine  and
+      Prange, Jakob  and
+      Scholze-Stubenrecht, Werner  and
+      Steffen, Diana  and
+      Thater, Stefan  and
+      Wellner, Christian  and
+      Pinkal, Manfred",
+    booktitle = "Proceedings of the Tenth International Conference on Language Resources and Evaluation ({LREC}'16)",
+    month = may,
+    year = "2016",
+    address = "Portoro{\v{z}}, Slovenia",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "https://www.aclweb.org/anthology/L16-1135",
+    pages = "836--841",
+    abstract = "We present an annotation study on a representative dataset of literal and idiomatic uses of German infinitive-verb compounds in newspaper and journal texts. Infinitive-verb compounds form a challenge for writers of German, because spelling regulations are different for literal and idiomatic uses. Through the participation of expert lexicographers we were able to obtain a high-quality corpus resource which offers itself as a testbed for automatic idiomaticity detection and coarse-grained word-sense disambiguation. We trained a classifier on the corpus which was able to distinguish literal and idiomatic uses with an accuracy of 85 {\%}.",
+}
