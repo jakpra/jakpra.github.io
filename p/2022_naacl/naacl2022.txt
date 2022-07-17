@@ -8,8 +8,6 @@
     year = "2022",
     address = "Seattle, WA, USA",
     publisher = "Association for Computational Linguistics",
-    url = "https://arxiv.org/abs/2112.07874",
-    doi = "",
-    pages = "",
-    notes = "arxiv preprint: 2112.07874"
+    url = "https://aclanthology.org/2022.naacl-main.325/",
+    pages = "4375--4391"
 }
