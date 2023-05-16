@@ -1,0 +1,12 @@
+@inproceedings{prange-wong-2023-reanalyzing,
+    title = "Reanalyzing L2 Preposition Learning with Bayesian Mixed Effects and a Pretrained Language Model",
+    author = "Prange, Jakob and
+      Wong, Man Ho Ivy",
+    booktitle = "Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/2302.08150",
+    note = "Preprint arXiv:2302.08150"
+}
