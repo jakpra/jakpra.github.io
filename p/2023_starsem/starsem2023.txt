@@ -1,0 +1,10 @@
+@inproceedings{prange-chersoni-2023-empirical,
+    title = "Empirical Sufficiency Lower Bounds for Language Modeling with Locally-Bootstrapped Semantic Structures",
+    author = "Prange, Jakob and
+      Chersoni, Emmanuele",
+    booktitle = "Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics"
+}
