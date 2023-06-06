@@ -1,0 +1,17 @@
+If you recall, biscuit conditionals are weird
+
+Biscuit conditionals are constructions like “There are biscuits on the table, if you want them,”
+which despite their familiar lexico-syntactic form do not convey conditional semantics in the
+traditional sense. The antecedent’s condition is not being placed on the consequent’s truth, but
+rather on its relevance and felicity. This becomes apparent when splitting up the conditional into
+two turns and rephrasing the antecedent as a question. The response to the biscuit question
+now determines whether the consequent needs to be uttered or not.
+Other non-conditional conditionals (NCCs) follow the same pattern, like discourse-structuring
+conditionals (“If you promise not to tell anyone, Kirsten is asleep”), where the condition is—quite
+paradoxically—on the speech act of revealing the consequent, and “reverse biscuits” (“If you
+recall, whales are mammals”), where uttering the consequent is relevant if the antecedent is
+false.
+I will discuss some data from English, Chinese, and German (which has interesting word order
+effects correlating with biscuit-ness) and propose a preliminary pragmatics-oriented account of
+both true conditionals and NCC as speech act conditionals, which attempts to unify their syntax
+and semantics.
