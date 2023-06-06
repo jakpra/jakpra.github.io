@@ -1,0 +1,11 @@
+Can a pretrained neural language model still benefit from linguistic symbol structure? Some upper and some lower bounds
+
+In this presentation I introduce one way in which deep-learning-based language models (LMs) and symbolic linguistics can potentially be reconciled. 
+The contributions I talk about include: an almost stupidly simple vector encoding of labeled and unlabeled linguistic structure, 
+which performs much faster than and equally as effective as established methods; a comparison of different linguistic representations on the task of next-word prediction; 
+as well as an analysis of robustness against noise. 
+I conclude that if we had human-like linguistic knowledge resources for large amounts of data, we could indeed achieve drastic improvements to LM perplexity, 
+which are even robust to certain types of "well-behaved" errors. 
+However, it remains unclear if automatic parsers can be good enough to only produce well-behaved errors and avoid bad ones, and if yes, if the effort is worth it.
+
+This is joint work with Emmanuele Chersoni, Nathan Schneider, and Lingpeng Kong.
