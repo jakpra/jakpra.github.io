@@ -6,5 +6,7 @@
     month = jul,
     year = "2023",
     address = "Toronto, Canada",
-    publisher = "Association for Computational Linguistics"
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/2305.18915",
+    note = "Preprint arXiv:2305.18915"
 }
