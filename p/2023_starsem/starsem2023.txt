@@ -5,8 +5,8 @@
     booktitle = "Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM)",
     month = jul,
     year = "2023",
+    pages = "456--468",
     address = "Toronto, Canada",
     publisher = "Association for Computational Linguistics",
-    url = "https://arxiv.org/abs/2305.18915",
-    note = "Preprint arXiv:2305.18915"
+    url = "https://aclanthology.org/2023.starsem-1.40/"
 }
