@@ -1,0 +1,8 @@
+@inproceedings{
+  kleinle-etal-2024-omosqa,
+  title={{OMoS-QA}: A Dataset for Cross-lingual Extractive Question Answering in a German Migration Context},
+  author={Steffen Kleinle, Jakob Prange, Annemarie Friedrich},
+  booktitle={Proceedings of the German Conference of Natural Language Processing (KONVENS)},
+  year={2024},
+  url={https://arxiv.org/abs/2407.15736}
+}
