@@ -1,8 +1,19 @@
-@inproceedings{
-  kleinle-etal-2024-omosqa,
-  title={{OMoS-QA}: A Dataset for Cross-lingual Extractive Question Answering in a German Migration Context},
-  author={Steffen Kleinle, Jakob Prange, Annemarie Friedrich},
-  booktitle={Proceedings of the German Conference of Natural Language Processing (KONVENS)},
-  year={2024},
-  url={https://arxiv.org/abs/2407.15736}
+@inproceedings{kleinle-etal-2024-omos,
+    title = "{OM}o{S}-{QA}: A Dataset for Cross-Lingual Extractive Question Answering in a {G}erman Migration Context",
+    author = "Kleinle, Steffen  and
+      Prange, Jakob  and
+      Friedrich, Annemarie",
+    editor = "Luz de Araujo, Pedro Henrique  and
+      Baumann, Andreas  and
+      Gromann, Dagmar  and
+      Krenn, Brigitte  and
+      Roth, Benjamin  and
+      Wiegand, Michael",
+    booktitle = "Proceedings of the 20th Conference on Natural Language Processing (KONVENS 2024)",
+    month = sep,
+    year = "2024",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.konvens-main.25",
+    pages = "231--248",
 }
