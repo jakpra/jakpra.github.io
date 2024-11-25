@@ -1,0 +1,8 @@
+@article{Wong_Prange_2024, 
+  title={A {B}ayesian approach to (re)examining learning effects of cognitive linguistics–inspired instruction: A close replication of {W}ong, {Z}hao, and {M}ac{W}hinney (2018)},
+  author={Wong, Man Ho Ivy and Prange, Jakob}, 
+  journal={Studies in Second Language Acquisition}, 
+  year={2024}, 
+  pages={1–21},
+  DOI={10.1017/S0272263124000603}
+}
